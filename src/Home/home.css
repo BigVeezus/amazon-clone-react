@@ -15,7 +15,8 @@
 }
 
 .home-image {
-   width: 100%;
+   width: 90%;
+   margin-left: 50px;
    height: 400px;
    z-index: -1;
    margin-bottom: -50px;

@@ -14,7 +14,7 @@ function Product({id, title, price, rating, image}){
                     {Array(rating)
                     .fill()
                     .map((_,i) => (
-                        <p>&#11088;</p>
+                        <p>⭐️</p>
                     ))}
                 </div>
             </div>
