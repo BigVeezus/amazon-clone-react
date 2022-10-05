@@ -80,4 +80,7 @@
 .nav-basketCount {
     margin-left: 10px;
     margin-right: 10px;
+    background-color: red;
+    border-radius: 30%;
+    padding: 3px;
 }

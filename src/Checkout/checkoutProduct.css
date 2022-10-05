@@ -30,3 +30,13 @@
     font-size: 17px;
     font-weight: 800;
 }
+.checkoutProduct-button:hover {
+    background-color: #d5870b;
+}
+.checkoutProduct-button:active {
+    border: 1.5px solid;
+}
+
+.main-cover {
+  border-bottom: 0.1px solid #b3a896;
+}
